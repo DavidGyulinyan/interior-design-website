@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+    font-family: 'Poppins';
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.sectionInfo {
+    
+}
+
+.secTitle {
+    height: 80px;
+    padding-left: 50px;
+
+
+    display: flex;
+    align-items: center;
+}
+
+.infoItems {
+    padding: 50px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.more {
+    margin-top: 20px;
+}

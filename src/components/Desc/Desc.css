@@ -1,0 +1,12 @@
+.itemsWrapper {
+    width: 425px;
+    height: 200px;
+    background-color: #F3F5F7;
+}
+
+.item {
+    height: 60px;
+    font-size: 14px;
+    font-weight: 900;
+    padding: 10px;
+}
